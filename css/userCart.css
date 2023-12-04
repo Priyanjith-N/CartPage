@@ -811,7 +811,8 @@ footer {
   }
   .price p:nth-child(3) {
     color: #3cb77c;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
+    width: max-content;
     font-weight: 500;
   }
   .deleteBtn {
